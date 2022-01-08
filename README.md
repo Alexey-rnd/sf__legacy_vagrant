@@ -1,2 +1,2 @@
 # sf__legacy_vagrant
-Task B6.5
+Vagrantfile with Postgres 8.4
